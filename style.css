@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Righteous&display=swap');
+.header{
+    margin-top: 0px;
+    margin: 0%;
+    display: inline-flexbox;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(1, 13, 65);
+  }
+li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 247, 247);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  li a:hover {
+    background-color: rgb(38, 146, 209);
+  }
+  body{
+
+    background-image: url('	https://archive.factordaily.com/wp-content/uploads/2019/04/mFine-Lead-Image.jpg'
+    );
+  }
+ 
+ .company{
+     color: white;
+     font-size: 40px;
+     text-align: right;
+     padding-top: 230px;
+     padding-right: 200px;
+   
+    font-family: 'Righteous', cursive;
+ }
+ .tag{
+     color: white;
+     font-size: 50px;
+     
+     padding-left:20px ;
+     text-align: right;
+     font-family: 'Dancing Script', cursive;
+     padding-right: 145px;
+ }
